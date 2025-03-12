@@ -29,6 +29,9 @@ Gesture	Action
  Thumb to Index Distance ⬆️	Increase Volume 🔊
  Thumb to Index Distance ⬇️	Decrease Volume 🔉
 
+Project demo
+![Hand Gesture Recognition Demo](https://github.com/SUVETHAV30/Hand-Gesture-Recognition/blob/main/Screenshot%202025-03-12%20172516.png)
+
 
 
 
