@@ -24,10 +24,10 @@ How It Works
 
 Controls
 Gesture	Action
-Wrist to Middle Finger Distance ⬆️	Play Video 🎬
-Wrist to Middle Finger Distance ⬇️	Pause Video ⏸
-Thumb to Index Distance ⬆️	Increase Volume 🔊
-Thumb to Index Distance ⬇️	Decrease Volume 🔉
+ Wrist to Middle Finger Distance ⬆️	Play Video 🎬
+ Wrist to Middle Finger Distance ⬇️	Pause Video ⏸
+ Thumb to Index Distance ⬆️	Increase Volume 🔊
+ Thumb to Index Distance ⬇️	Decrease Volume 🔉
 
 
 
